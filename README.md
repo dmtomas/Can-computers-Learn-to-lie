@@ -9,3 +9,5 @@ Run the default Training
 2- Press 1 to start the training of the AIs.
 3- Press 2 to Graph all the data that the training made.
 4- Exit pressing 0.
+
+The default Training takes about 1h with an fx8350 a gtx970 and 8gb of ram.
