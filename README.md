@@ -11,3 +11,11 @@ Run the default Training
 4- Exit pressing 0.
 
 The default Training takes about 1h with an fx8350 a gtx970 and 8gb of ram.
+
+Librarys used:
+-Tensor Flow
+-Matplotlib
+-Numpy
+-Time
+-csv
+-scipy.optimize
